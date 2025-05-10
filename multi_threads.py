@@ -1,4 +1,4 @@
-#created by mushrifa
+#created by mm nair - the mentor
 import threading
 import time
 
@@ -15,3 +15,5 @@ try:
         th1.start()
 except:
     print("Unable to start thread.")
+
+# This is an example of using GIT
